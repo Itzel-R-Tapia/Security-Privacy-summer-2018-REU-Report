@@ -4,4 +4,6 @@ I co-authored this research paper as part of my participation in the 2018 summer
 - No un-authorized copies/reproductions. 
 
 Thank you for reading!
+
+
 Itzel R. Tapia
