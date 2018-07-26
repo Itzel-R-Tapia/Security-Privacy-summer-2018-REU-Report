@@ -1,2 +1,2 @@
 # Security and Privacy in Connected Autonomous Cars
-These are research papers I've written &amp;/or co-authored =)
+I co-authored this research paper as part of my participation in the 2018 summer REU site at UTD. =)
